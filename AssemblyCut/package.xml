@@ -3,7 +3,7 @@
 
     <name>AssemblyCut</name>
     <description>Cut multiple PartDesign bodies with a single sketch. Auto-detects intersected bodies, supports reordering and per-body Pocket parameters.</description>
-    <version>1.1.0</version>
+    <version>1.2.0</version>
     <date>2026-08-11</date>
 
     <freecadmin>1.1.0</freecadmin>
